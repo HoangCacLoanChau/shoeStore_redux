@@ -1,8 +1,8 @@
 import "./App.css";
-import Shoe from "./Shoe/Shoe";
+import ExShoeRedux from "./ExShoeRedux/ExShoeRedux";
 
 function App() {
-  return <Shoe />;
+  return <ExShoeRedux />;
 }
 
 export default App;
